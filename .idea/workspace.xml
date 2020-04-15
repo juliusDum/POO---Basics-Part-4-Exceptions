@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c57f0ce9-3a04-4197-9f21-913bc6ba2a4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1ZqqFlCvGLiCzwAJBuwkt71n8vo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c57f0ce9-3a04-4197-9f21-913bc6ba2a4e" name="Default Changelist" comment="" />
+      <created>1585576870988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585576870988</updated>
+      <workItem from="1585576872326" duration="29000" />
+      <workItem from="1585576978898" duration="4000" />
+      <workItem from="1585577000140" duration="243000" />
+      <workItem from="1585577247469" duration="2000" />
+      <workItem from="1585577294798" duration="16742000" />
+      <workItem from="1585665907635" duration="9519000" />
+      <workItem from="1586164916144" duration="8137000" />
+      <workItem from="1586195978167" duration="392000" />
+      <workItem from="1586871292762" duration="32000" />
+      <workItem from="1586955578977" duration="28000" />
+      <workItem from="1586955736312" duration="2067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="319" key="NewPhpFileDialog" timestamp="1586186283860">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="468" y="319" key="NewPhpFileDialog/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1586186283860" />
+    <state x="468" y="319" key="NewPhpFileDialog/0.23.1280.728/1280.23.1920.1057@0.23.1280.728" timestamp="1585665936453" />
+    <state x="325" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1586955580377">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="325" y="221" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1586164918244" />
+    <state x="325" y="224" key="com.intellij.ide.util.TipDialog/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1586955580377" />
+  </component>
+</project>
