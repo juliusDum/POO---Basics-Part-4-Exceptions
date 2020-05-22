@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c57f0ce9-3a04-4197-9f21-913bc6ba2a4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LightableInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bicycle.php" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bicycle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/car.php" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/car.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Speedometer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +58,7 @@
       <workItem from="1586871292762" duration="32000" />
       <workItem from="1586955578977" duration="28000" />
       <workItem from="1586955736312" duration="2067000" />
-      <workItem from="1590166482203" duration="246000" />
+      <workItem from="1590166482203" duration="823000" />
     </task>
     <servers />
   </component>
@@ -69,10 +66,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="468" y="319" key="NewPhpFileDialog" timestamp="1590166811804">
+    <state x="468" y="319" key="NewPhpFileDialog" timestamp="1590167217644">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state x="468" y="319" key="NewPhpFileDialog/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1590166811804" />
+    <state x="468" y="319" key="NewPhpFileDialog/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1590167217644" />
     <state x="468" y="319" key="NewPhpFileDialog/0.23.1280.728/1280.23.1920.1057@0.23.1280.728" timestamp="1585665936453" />
     <state x="325" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1586955580377">
       <screen x="0" y="23" width="1280" height="728" />

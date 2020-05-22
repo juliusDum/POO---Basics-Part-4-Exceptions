@@ -7,6 +7,7 @@ require_once 'MotorWay.php';
 require_once 'PedestrianWay.php';
 require_once 'ResidentialWay.php';
 require_once 'skateboard.php';
+require_once 'Speedometer.php';
 //bicycle
 $bike = new bicycle("red", 1);
 
