@@ -1,6 +1,7 @@
 <?php
 //car.php
 require_once 'vehicle.php';
+require_once 'LightableInterface.php';
 final class Car extends Vehicle{
    const ALLOWED_ENERGIES= [
        'fuel',
@@ -49,5 +50,15 @@ final class Car extends Vehicle{
         if ($this->hasParkBrake){
             throw new Exception("il faut enlever le frain à main!");
         }
+    }
+
+    public function switchOn() : bool
+    {
+        return true;
+    }
+
+    public function switchOff() : bool
+    {
+        return false;
     }
 }
